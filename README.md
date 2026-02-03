@@ -8,4 +8,4 @@
 	4. git help - gh --help
 	5. git repo 확인 - gh repo list
 	6. 퍼블릭 리포지터리 및 로컬에 생성 - gh repo create [repo 이름] --[public or private] --clone --add-readme
-	7. 
+	7. test
